@@ -1,0 +1,56 @@
+[
+  [
+    "clash-verge-rev",
+    "Clash Verge Rev",
+    "CV",
+    "Windows · macOS · Linux",
+    "基于 Tauri 的桌面客户端，适合希望通过图形界面管理订阅和规则的用户。",
+    "clash-verge-rev/clash-verge-rev",
+    "桌面入门"
+  ],
+  [
+    "clash-party",
+    "Clash Party",
+    "CP",
+    "Windows · macOS · Linux",
+    "原 Mihomo Party，提供桌面端图形界面。下载前阅读发行说明，确认系统与架构。",
+    "mihomo-party-org/clash-party",
+    "桌面客户端"
+  ],
+  [
+    "flclash",
+    "FlClash",
+    "Fl",
+    "Windows · macOS · Linux · Android",
+    "基于 Flutter 的跨平台客户端，采用 Material 风格界面，支持订阅与 WebDAV 同步。",
+    "chen08209/FlClash",
+    "跨平台"
+  ],
+  [
+    "clash-meta-android",
+    "Clash Meta for Android",
+    "CM",
+    "Android",
+    "面向 Android 的规则代理客户端。安装包、更新记录和使用说明以项目仓库为准。",
+    "MetaCubeX/ClashMetaForAndroid",
+    "安卓客户端"
+  ],
+  [
+    "clashmi",
+    "Clash Mi",
+    "Mi",
+    "iOS · macOS · Android · Windows · Linux",
+    "基于 Flutter 与 Mihomo 的图形界面项目，不同平台的安装方式请参阅原始项目说明。",
+    "KaringX/clashmi",
+    "多端体验"
+  ],
+  [
+    "metacubexd",
+    "MetaCubeXD",
+    "MX",
+    "Web 控制面板",
+    "Mihomo 的网页控制面板，需要连接已经运行的内核，本身不是独立代理客户端。",
+    "MetaCubeX/metacubexd",
+    "控制面板"
+  ]
+]

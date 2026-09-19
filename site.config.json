@@ -1,0 +1,59 @@
+{
+  "domain": "clashdaquan.com.cn",
+  "name": "Clash 大全",
+  "categories": [
+    [
+      "recommend",
+      "机场推荐",
+      "按需求找到合适的订阅服务",
+      "◎"
+    ],
+    [
+      "ranking",
+      "机场榜单",
+      "看懂排名背后的评选标准",
+      "▤"
+    ],
+    [
+      "downloads",
+      "Clash 软件下载",
+      "从开发者原始仓库安全下载",
+      "↓"
+    ],
+    [
+      "tutorials",
+      "Clash 教程",
+      "从第一次安装到进阶配置",
+      "⌘"
+    ],
+    [
+      "reviews",
+      "机场测评",
+      "关注方法，也关注真实体验",
+      "◷"
+    ],
+    [
+      "coupons",
+      "机场优惠码",
+      "先核验活动，再决定购买",
+      "%"
+    ]
+  ],
+  "previewPort": 4173,
+  "featuredGuides": [
+    "import-subscription",
+    "rule-global-direct",
+    "mihomo-local-lab"
+  ],
+  "title": "Clash 下载与订阅配置教程",
+  "description": "Clash 大全汇总 Clash Verge Rev、FlClash、Mihomo 等开源项目下载来源，提供 Windows、macOS、Android 客户端选择、订阅导入、规则分流与故障排查教程，并说明机场选择与测评方法。",
+  "relatedSites": [
+    {
+      "domain": "v2rayn-us.com.cn",
+      "name": "v2rayN 桌面指南",
+      "reason": "比较桌面代理客户端的安装包与接管方式",
+      "port": 4181,
+      "published": false
+    }
+  ]
+}
