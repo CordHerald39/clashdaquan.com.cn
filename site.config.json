@@ -41,12 +41,15 @@
   ],
   "previewPort": 4173,
   "featuredGuides": [
+    "clash-official-sources",
+    "android-first-run",
     "import-subscription",
     "rule-global-direct",
+    "subscription-errors",
     "mihomo-local-lab"
   ],
-  "title": "Clash 下载与订阅配置教程",
-  "description": "Clash 大全汇总 Clash Verge Rev、FlClash、Mihomo 等开源项目下载来源，提供 Windows、macOS、Android 客户端选择、订阅导入、规则分流与故障排查教程，并说明机场选择与测评方法。",
+  "title": "Clash 下载与使用教程",
+  "description": "Clash 大全提供安卓手机版、Windows 电脑版下载指引与开发者发布入口，按设备选择客户端，学习订阅导入、规则模式、连接验证与常见故障排查。",
   "relatedSites": [
     {
       "domain": "v2rayn-us.com.cn",
